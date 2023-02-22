@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kisisellhesap/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://stats-preview-card-component-main-orpin.vercel.app/)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here]()
 
 ## My process
 
